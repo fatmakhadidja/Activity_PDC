@@ -1,4 +1,4 @@
-package models;
+package controllers;
 
 public class NormalState extends VehicleState {
     @Override

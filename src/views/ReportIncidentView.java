@@ -1,5 +1,9 @@
 package views;
 
+import controllers.IncidentHandler;
+import models.TypeIncident;
+import models.TypeVehicle;
+
 public class ReportIncidentView {
     private IncidentHandler incidentHandler;
     public ReportIncidentView(IncidentHandler incidentHandler) {
