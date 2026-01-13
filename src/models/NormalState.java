@@ -1,3 +1,5 @@
+package models;
+
 public class NormalState extends VehicleState {
     @Override
     public void handleRequest() {
